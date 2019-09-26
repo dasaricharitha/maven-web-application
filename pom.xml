@@ -28,7 +28,7 @@
 
 	</properties>
 
-	<dependencies>f5a2a5ebc07ea9b680affb26838403f96f1098f2
+	<dependencies>
 		
 		<dependency>
 			<groupId>org.json</groupId>
