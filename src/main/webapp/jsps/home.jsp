@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to DNR silk Saress....</h1>
-<h1 align="center">Very Good showroom for sarees with All designs in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Very Good showroom for sarees with All designs in MR PALLI and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
